@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "roadboss.in",
-    "currentPage": "index.html",
+    "currentPage": "drivercare.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
     "transportercare.html": {
       "settings": {
         "meta_descr": "Transport Companies & Fleet Owners",
-        "title": "Transporter Care",
+        "title": "Road Boss Truck Stop - Transporter Care",
         "order": 2
       },
       "components": [
@@ -723,7 +723,7 @@
     "drivercare.html": {
       "settings": {
         "meta_descr": "Professional Indian Truck Drivers",
-        "title": "Driver Care",
+        "title": "Road Boss Truck Stop - Driver Care",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/image-13-720x960.png"
       },
@@ -2763,7 +2763,7 @@
     "truckcare.html": {
       "settings": {
         "meta_descr": "RoadBoss Truck Care on Highways",
-        "title": "TruckCare",
+        "title": "Road Boss Truck Stop - TruckCare",
         "order": 1
       },
       "components": [
