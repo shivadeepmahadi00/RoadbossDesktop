@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "roadboss.in",
-    "currentPage": "transportercare.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2696,7 +2696,7 @@
         }
       ]
     },
-    "html.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Road Boss Truck Stops",
